@@ -1,0 +1,163 @@
+.Beine {
+    width: 100%;
+    height: 90px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+}
+
+.Jesus {
+    color: green;
+    margin-left: 30px;
+}
+
+.name {
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+}
+
+.img {
+    background-image: url("../garindwa.jpg");
+    height: 600px;
+    width: 100%;
+    background-repeat: none;
+    background-size: cover;
+    background-color: bisque
+        url("../garindwa.jpg") no-repeat center center/cover;
+    margin-bottom: 20px;
+}
+
+.Jesus:hover {
+    color: black;
+}
+
+.name:hover {
+    text-decoration: underline green;
+    color: black;
+}
+
+.MonkeyDluffy {
+    color: white;
+    padding-top: 20px;
+    padding-left: 70px;
+    font-size: 60px;
+
+}
+
+.Doflamingo {
+    color: white;
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: 30px;
+
+}
+
+.ODA {
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 10px;
+    border: 20px;
+    color: white;
+    background-color: green;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 50px;
+
+}
+
+.Zoro {
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 10px;
+    border: 20px;
+    color: white;
+    background-color: green;
+    margin-left: 30px;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 50px;
+    border: 1px solid green;
+
+}
+
+.gg {
+    padding: 30px;
+    padding-left: 20px;
+
+}
+
+.div {
+
+    float: right;
+    width: 450px;
+    height: 450px;
+
+
+}
+
+.clay {
+    color: black;
+    width: 50%;
+    height: 450px;
+    float: right;
+    background-color: lightgreen;
+    size: 100px;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.buggy {
+    font-size: 50px;
+    padding-right: 30px;
+    border-radius: 10px;
+    padding-right: 20px;
+}
+
+.DrGarindwa {
+    float: left;
+    margin-left: 50px;
+}
+.Sanja{
+    font-size: 25px;
+}
+.Nami{
+   
+    background-color: bisque;
+     height: 500px;
+    margin-top: 10px;
+
+}
+.Mihawk{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+    height: 500px;
+    width: 100%;
+}
+.Chopper{
+    text-align: center;
+    padding-top: 50px;
+}
+.Robin{
+    text-align: center;
+}
+.Adam{
+    width: 80%;
+    height: 287.5px;
+    background-color: plum;
+    margin: auto;
+    display: flex;
+}
+.Eve{
+ height:100% ;
+ width:24% ;
+ background-color:burlywood ;
+ margin-right: 30px;
+
+}
+.cain{
+    color: green;
+    font-size: 40px;
+   margin-left: 60px;
+}
